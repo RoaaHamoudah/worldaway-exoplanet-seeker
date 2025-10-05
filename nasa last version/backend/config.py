@@ -8,6 +8,7 @@ Configuration settings for WorldAway backend
 # # cd backend
 # python -m uvicorn main:app --
 
+# Keep this PowerShell window open while running the frontend in another PowerShell window.
 
 # Frontend Setup (React):
 # To start the frontend (React) application, open the frontend folder and run:
