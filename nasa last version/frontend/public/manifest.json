@@ -1,0 +1,8 @@
+{
+  "short_name": "WorldAway",
+  "name": "WorldAway - Exoplanet Seeker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0B1221",
+  "background_color": "#0B1221"
+}
