@@ -6,6 +6,8 @@ To start the backend server, make sure you have all dependencies installed, then
 - cd backend  
 - python -m uvicorn main:app --
 
+<br>
+
 Keep this PowerShell window open while running the frontend in another PowerShell window.
 
 <br>
